@@ -6,9 +6,9 @@ This is a project created by Aidan Rotz, Blaise Corcoran, Dustin Kramer, and Owe
 
 ## Video Demo
 
-[Pet GeoFence Video Demo](https://www.youtube.com/watch?v=jD74VAgSTXE&t=1s&ab_channel=PGF)
+[Pet Geofence Video Demo](https://www.youtube.com/watch?v=jD74VAgSTXE&t=1s&ab_channel=PGF)
 
-The video showcases various features of the Pet GeoFence app and was created as part of a presentation that went over the process of creating this project.
+The video showcases various features of the Pet Geofence app and was created as part of a presentation that went over the process of creating this project.
 
 ## APK
 
